@@ -1,0 +1,24 @@
+{
+    "name": "Twplay Recover-VOD's",
+    "description": "Replaces the Twitch video player to Recover Stream",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["tabs", "activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["https://www.twitch.tv/videos/*"],
+        "js": [
+            "./src/pkg/video.min.js",
+            "./src/pkg/silvermine-videojs-quality-selector.min.js",
+            "./src/scripts/content.js"
+        ],
+        "css": [
+            "./src/styles/video-js.min.css",
+            "./src/styles/video.css"
+        ]
+      }
+    ],
+    "background": {
+      "service_worker": "./src/background.js"
+    }
+}
