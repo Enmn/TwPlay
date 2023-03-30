@@ -9,5 +9,5 @@ To get started, just install the extension from GitHub, unzip it, go to the exte
 
 ## License
 The source code for the site is licensed under the GPL-3.0 license<br>
-Find a file called [LICENSE](LICENSE)
-Developr - Emnm
+Find a file called [LICENSE](LICENSE)<br>
+Developr - Enmn
