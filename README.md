@@ -1,13 +1,24 @@
-# Twplay 
-Add this Chrome extension to easily recover saved Twitch videos for any user. The extension provides a user-friendly video player with advanced capabilities, making it easy to watch and manage Twitch streams. The extension is updated regularly to ensure compatibility with the latest Twitch features and changes, so you can enjoy a seamless viewing experience. Try it today and never miss a stream on Twitch again!
+## Twplay - Chrome Extension for Watching Saved Twitch Videos
 
-## Installtion
-To get started, just install the extension from GitHub, unzip it, go to the extensions manager, enable developer mode, and install it. Once installed, you can browse Twitch for any saved video and use the video player of the extension to watch it.
+Install this Chrome extension to effortlessly access saved Twitch videos. It features a user-friendly, advanced video player, simplifying the process of watching and managing Twitch streams. Frequent updates ensure compatibility with the latest Twitch features, guaranteeing a seamless viewing experience. Don't miss another Twitch stream—try it today!
 
-## Errors 
-- In some of the saved broadcasts, it may not work for you, and the reason is most likely in the **M3U8** file link, the content of which is not the same as other broadcasts, or reserved with rights, etc. but we are working on that
+## Installation
+
+To get started, follow these steps to install the extension:
+
+1. Download the extension from the [GitHub repository](https://github.com/yourusername/twplay).
+2. Unzip the downloaded file.
+3. Open the Chrome browser and go to the extensions manager.
+4. Enable "Developer Mode" in the top right corner of the extensions manager.
+5. Click on "Load unpacked" and select the folder where you unzipped the extension.
+6. Once installed, you can browse Twitch for any saved video and use the video player provided by the extension to watch it.
+
+## Known Issues and Errors
+
+While "Twplay" is designed to work with most saved Twitch broadcasts, there may be cases where it doesn't function as expected. The most common reason for this is the **M3U8** file link, which can vary in content for different broadcasts or may be protected by rights restrictions. The development team is actively working to address these issues and improve compatibility.
 
 ## License
-The source code for the site is licensed under the GPL-3.0 license<br>
-Find a file called [LICENSE](LICENSE)<br>
-Developr - Enmn
+
+The source code for the "Twplay" Chrome extension is licensed under the GPL-3.0 license. You can find the license file in the repository under [LICENSE](LICENSE).
+
+**Developer:** Enmn
