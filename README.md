@@ -1,4 +1,4 @@
-## Twplay - Chrome Extension for Watching Saved Twitch Videos
+## Twplay - Chrome Extension for Watching Sub-only Twitch Streams
 
 Install this Chrome extension to effortlessly access saved Twitch videos. It features a user-friendly, advanced video player, simplifying the process of watching and managing Twitch streams. Frequent updates ensure compatibility with the latest Twitch features, guaranteeing a seamless viewing experience. Don't miss another Twitch stream—try it today!
 
